@@ -12,13 +12,17 @@ Project Title:  Understand Live register data for past 16 years in Ireland
  
 
 Data Sources:
+
 CSO Live Register/Crime Data.
+
 http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/Define.asp?maintable=LRM07&PLanguage=0
 
 Eurostat Population Data
+
 http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tps00001&plugin=1
 
 Eurostat Immigration Data
+
 http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tps00176&plugin=1
  
 Data Treatment:
