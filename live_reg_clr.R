@@ -1,0 +1,8 @@
+library(tidyverse)
+tb <- read_csv("live_reg_2.csv",col_names = TRUE)
+#a <- select(tb, c(sex, age,entity,starts_with("2002")))
+a <- filter(tb, grepl("County", entity)
+            | grepl("South", entity) | grepl("North", entity))
+b <- filter(a, !grepl("Bothsexes", sex) & !grepl("Allages", age))
+c <- gather(b, key = year_month, value = head_count, -(sex:entity))
+write.csv(c, "clean_live_reg.csv")
