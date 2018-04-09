@@ -1,0 +1,249 @@
+"","key","year_number","head_count","head_singles"
+"1","Annual births","1987",61.2,61200
+"2","Annual deaths","1987",32.2,32200
+"3","Natural increase","1987",29,29000
+"4","Immigrants","1987",17.2,17200
+"5","Emigrants","1987",40.2,40200
+"6","Net migration","1987",-23,-23000
+"7","Population change","1987",5.9,5900
+"8","Population","1987",3546.5,3546500
+"9","Annual births","1988",57.8,57800
+"10","Annual deaths","1988",31.6,31600
+"11","Natural increase","1988",26.2,26200
+"12","Immigrants","1988",19.2,19200
+"13","Emigrants","1988",61.1,61100
+"14","Net migration","1988",-41.9,-41900
+"15","Population change","1988",-15.8,-15800
+"16","Population","1988",3530.7,3530700
+"17","Annual births","1989",53.6,53600
+"18","Annual deaths","1989",31,31000
+"19","Natural increase","1989",22.6,22600
+"20","Immigrants","1989",26.7,26700
+"21","Emigrants","1989",70.6,70600
+"22","Net migration","1989",-43.9,-43900
+"23","Population change","1989",-21.2,-21200
+"24","Population","1989",3509.5,3509500
+"25","Annual births","1990",51.9,51900
+"26","Annual deaths","1990",32.8,32800
+"27","Natural increase","1990",19.1,19100
+"28","Immigrants","1990",33.3,33300
+"29","Emigrants","1990",56.3,56300
+"30","Net migration","1990",-22.9,-22900
+"31","Population change","1990",-3.7,-3700
+"32","Population","1990",3505.8,3505800
+"33","Annual births","1991",53.1,53100
+"34","Annual deaths","1991",31.1,31100
+"35","Natural increase","1991",22,22000
+"36","Immigrants","1991",33.3,33300
+"37","Emigrants","1991",35.3,35300
+"38","Net migration","1991",-2,-2000
+"39","Population change","1991",19.9,19900
+"40","Population","1991",3525.7,3525700
+"41","Annual births","1992",52.8,52800
+"42","Annual deaths","1992",31.4,31400
+"43","Natural increase","1992",21.4,21400
+"44","Immigrants","1992",40.7,40700
+"45","Emigrants","1992",33.4,33400
+"46","Net migration","1992",7.4,7400
+"47","Population change","1992",28.8,28800
+"48","Population","1992",3554.5,3554500
+"49","Annual births","1993",50.4,50400
+"50","Annual deaths","1993",30.4,30400
+"51","Natural increase","1993",20,20000
+"52","Immigrants","1993",34.7,34700
+"53","Emigrants","1993",35.1,35100
+"54","Net migration","1993",-0.4,-400
+"55","Population change","1993",19.6,19600
+"56","Population","1993",3574.1,3574100
+"57","Annual births","1994",49.1,49100
+"58","Annual deaths","1994",32.6,32600
+"59","Natural increase","1994",16.6,16600
+"60","Immigrants","1994",30.1,30100
+"61","Emigrants","1994",34.8,34800
+"62","Net migration","1994",-4.7,-4700
+"63","Population change","1994",11.8,11800
+"64","Population","1994",3585.9,3585900
+"65","Annual births","1995",48.4,48400
+"66","Annual deaths","1995",31.2,31200
+"67","Natural increase","1995",17.2,17200
+"68","Immigrants","1995",31.2,31200
+"69","Emigrants","1995",33.1,33100
+"70","Net migration","1995",-1.9,-1900
+"71","Population change","1995",15.4,15400
+"72","Population","1995",3601.3,3601300
+"73","Annual births","1996",48.8,48800
+"74","Annual deaths","1996",32,32000
+"75","Natural increase","1996",16.7,16700
+"76","Immigrants","1996",39.2,39200
+"77","Emigrants","1996",31.2,31200
+"78","Net migration","1996",8,8000
+"79","Population change","1996",24.8,24800
+"80","Population","1996",3626.1,3626100
+"81","Annual births","1997",50.7,50700
+"82","Annual deaths","1997",31.7,31700
+"83","Natural increase","1997",19,19000
+"84","Immigrants","1997",44.5,44500
+"85","Emigrants","1997",25.3,25300
+"86","Net migration","1997",19.2,19200
+"87","Population change","1997",38.2,38200
+"88","Population","1997",3664.3,3664300
+"89","Annual births","1998",52.7,52700
+"90","Annual deaths","1998",31.2,31200
+"91","Natural increase","1998",21.5,21500
+"92","Immigrants","1998",46,46000
+"93","Emigrants","1998",28.6,28600
+"94","Net migration","1998",17.4,17400
+"95","Population change","1998",38.8,38800
+"96","Population","1998",3703.1,3703100
+"97","Annual births","1999",53.7,53700
+"98","Annual deaths","1999",32.4,32400
+"99","Natural increase","1999",21.2,21200
+"100","Immigrants","1999",48.9,48900
+"101","Emigrants","1999",31.5,31500
+"102","Net migration","1999",17.3,17300
+"103","Population change","1999",38.5,38500
+"104","Population","1999",3741.6,3741600
+"105","Annual births","2000",54,54000
+"106","Annual deaths","2000",32.1,32100
+"107","Natural increase","2000",21.8,21800
+"108","Immigrants","2000",52.6,52600
+"109","Emigrants","2000",26.6,26600
+"110","Net migration","2000",26,26000
+"111","Population change","2000",47.9,47900
+"112","Population","2000",3789.5,3789500
+"113","Annual births","2001",55.1,55100
+"114","Annual deaths","2001",30.2,30200
+"115","Natural increase","2001",24.8,24800
+"116","Immigrants","2001",59,59000
+"117","Emigrants","2001",26.2,26200
+"118","Net migration","2001",32.8,32800
+"119","Population change","2001",57.7,57700
+"120","Population","2001",3847.2,3847200
+"121","Annual births","2002",58.1,58100
+"122","Annual deaths","2002",29.3,29300
+"123","Natural increase","2002",28.8,28800
+"124","Immigrants","2002",66.9,66900
+"125","Emigrants","2002",25.6,25600
+"126","Net migration","2002",41.3,41300
+"127","Population change","2002",70,70000
+"128","Population","2002",3917.2,3917200
+"129","Annual births","2003",60.8,60800
+"130","Annual deaths","2003",28.9,28900
+"131","Natural increase","2003",31.9,31900
+"132","Immigrants","2003",60,60000
+"133","Emigrants","2003",29.3,29300
+"134","Net migration","2003",30.7,30700
+"135","Population change","2003",62.6,62600
+"136","Population","2003",3979.9,3979900
+"137","Annual births","2004",62,62000
+"138","Annual deaths","2004",28.6,28600
+"139","Natural increase","2004",33.3,33300
+"140","Immigrants","2004",58.5,58500
+"141","Emigrants","2004",26.5,26500
+"142","Net migration","2004",32,32000
+"143","Population change","2004",65.3,65300
+"144","Population","2004",4045.2,4045200
+"145","Annual births","2005",61.4,61400
+"146","Annual deaths","2005",27.9,27900
+"147","Natural increase","2005",33.5,33500
+"148","Immigrants","2005",84.6,84600
+"149","Emigrants","2005",29.4,29400
+"150","Net migration","2005",55.1,55100
+"151","Population change","2005",88.6,88600
+"152","Population","2005",4133.8,4133800
+"153","Annual births","2006",61.2,61200
+"154","Annual deaths","2006",27,27000
+"155","Natural increase","2006",34.2,34200
+"156","Immigrants","2006",107.8,107800
+"157","Emigrants","2006",36,36000
+"158","Net migration","2006",71.8,71800
+"159","Population change","2006",106,106000
+"160","Population","2006",4232.9,4232900
+"161","Annual births","2007",66.6,66600
+"162","Annual deaths","2007",28.4,28400
+"163","Natural increase","2007",38.2,38200
+"164","Immigrants","2007",151.1,151100
+"165","Emigrants","2007",46.3,46300
+"166","Net migration","2007",104.8,104800
+"167","Population change","2007",142.9,142900
+"168","Population","2007",4375.8,4375800
+"169","Annual births","2008",73,73000
+"170","Annual deaths","2008",28,28000
+"171","Natural increase","2008",44.9,44900
+"172","Immigrants","2008",113.5,113500
+"173","Emigrants","2008",49.2,49200
+"174","Net migration","2008",64.3,64300
+"175","Population change","2008",109.2,109200
+"176","Population","2008",4485.1,4485100
+"177","Annual births","2009",75.3,75300
+"178","Annual deaths","2009",28.6,28600
+"179","Natural increase","2009",46.7,46700
+"180","Immigrants","2009",73.7,73700
+"181","Emigrants","2009",72,72000
+"182","Net migration","2009",1.6,1600
+"183","Population change","2009",48.3,48300
+"184","Population","2009",4533.4,4533400
+"185","Annual births","2010",77.2,77200
+"186","Annual deaths","2010",28.4,28400
+"187","Natural increase","2010",48.8,48800
+"188","Immigrants","2010",41.8,41800
+"189","Emigrants","2010",69.2,69200
+"190","Net migration","2010",-27.5,-27500
+"191","Population change","2010",21.4,21400
+"192","Population","2010",4554.8,4554800
+"193","Annual births","2011",75.1,75100
+"194","Annual deaths","2011",27.7,27700
+"195","Natural increase","2011",47.5,47500
+"196","Immigrants","2011",53.3,53300
+"197","Emigrants","2011",80.6,80600
+"198","Net migration","2011",-27.4,-27400
+"199","Population change","2011",20.1,20100
+"200","Population","2011",4574.9,4574900
+"201","Annual births","2012",73.2,73200
+"202","Annual deaths","2012",28.7,28700
+"203","Natural increase","2012",44.5,44500
+"204","Immigrants","2012",57.3,57300
+"205","Emigrants","2012",83,83000
+"206","Net migration","2012",-25.7,-25700
+"207","Population change","2012",18.8,18800
+"208","Population","2012",4593.7,4593700
+"209","Annual births","2013",69.4,69400
+"210","Annual deaths","2013",29.8,29800
+"211","Natural increase","2013",39.6,39600
+"212","Immigrants","2013",62.7,62700
+"213","Emigrants","2013",81.3,81300
+"214","Net migration","2013",-18.7,-18700
+"215","Population change","2013",21,21000
+"216","Population","2013",4614.7,4614700
+"217","Annual births","2014",68.4,68400
+"218","Annual deaths","2014",29.2,29200
+"219","Natural increase","2014",39.2,39200
+"220","Immigrants","2014",66.5,66500
+"221","Emigrants","2014",75,75000
+"222","Net migration","2014",-8.5,-8500
+"223","Population change","2014",30.8,30800
+"224","Population","2014",4645.4,4645400
+"225","Annual births","2015",66.4,66400
+"226","Annual deaths","2015",29.9,29900
+"227","Natural increase","2015",36.5,36500
+"228","Immigrants","2015",75.9,75900
+"229","Emigrants","2015",70,70000
+"230","Net migration","2015",5.9,5900
+"231","Population change","2015",42.3,42300
+"232","Population","2015",4687.8,4687800
+"233","Annual births","2016",65.4,65400
+"234","Annual deaths","2016",29.8,29800
+"235","Natural increase","2016",35.6,35600
+"236","Immigrants","2016",82.3,82300
+"237","Emigrants","2016",66.2,66200
+"238","Net migration","2016",16.2,16200
+"239","Population change","2016",51.8,51800
+"240","Population","2016",4739.6,4739600
+"241","Annual births","2017",63.9,63900
+"242","Annual deaths","2017",30.8,30800
+"243","Natural increase","2017",33.1,33100
+"244","Immigrants","2017",84.6,84600
+"245","Emigrants","2017",64.8,64800
+"246","Net migration","2017",19.8,19800
+"247","Population change","2017",52.9,52900
+"248","Population","2017",4792.5,4792500
